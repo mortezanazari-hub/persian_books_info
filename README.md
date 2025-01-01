@@ -32,4 +32,4 @@ Contributions to this dataset are welcome. Please open an issue or pull request 
 
 **License:**
 
-[Your chosen license, e.g., MIT License]
+[MIT License]
